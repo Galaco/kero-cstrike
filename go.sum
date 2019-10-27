@@ -17,8 +17,12 @@ github.com/galaco/kero v0.0.0-20191006042611-02f64e984c8d h1:PLGyn8EIgbTT6XfIIdM
 github.com/galaco/kero v0.0.0-20191006042611-02f64e984c8d/go.mod h1:rtOWVnYWZuycKWfvMVskqBQgaK/esOdE8AT4heC69fA=
 github.com/galaco/kero v0.0.0-20191007222531-03fa7168417a h1:qu1aCyaM1N1TwCWNBnwez/w4wEtTZx5Nj1AjOEcFUZ4=
 github.com/galaco/kero v0.0.0-20191007222531-03fa7168417a/go.mod h1:Cvw0pCDSNd5vITTrCSoUmiQ12zujFeTkpudr07lgopI=
+github.com/galaco/kero v0.0.0-20191027102355-fde1a4d91929 h1:SCfcB3O34gD6FKnAMPN0P6BhPEfK1/GaMa/rGyVd4uM=
+github.com/galaco/kero v0.0.0-20191027102355-fde1a4d91929/go.mod h1:tuVMsYGaorM792FCLcSXHofQa09SlV5mCA9QcN5i3/Y=
 github.com/galaco/source-tools-common v0.1.0 h1:NHhsoSKL42dfFKnfRI2D/3um0tbNLVP2ZAWNoEGPMNM=
 github.com/galaco/source-tools-common v0.1.0/go.mod h1:+TApRVomBN759va2qrv5GaLuCaK2AWxR0tn9oc2U73Q=
+github.com/galaco/studiomodel v0.1.2 h1:y9aPGiL64hP1TEdWn2n3JaeZDFGUMet5dzmXPva15ds=
+github.com/galaco/studiomodel v0.1.2/go.mod h1:8bzTjcsmb1OsLLaf2ES60avF9WfAaZtVGKUw/IXe14c=
 github.com/galaco/tinygametools v0.1.0 h1:cWrd3YUd2XdBQQCOtaoNOj/hWBj3VUlX7AMZBDROYQg=
 github.com/galaco/tinygametools v0.1.0/go.mod h1:uhxliQyadXV+GSlkwsQMUPv45lr61vNv1Z8N+CsDvFQ=
 github.com/galaco/vmf v0.0.0-20180309175744-7a9ccb6e8abb/go.mod h1:+hpnZQBHJ5xrERgGMr6f/KO0ZkxEkrvjqr3RI9aNHes=
@@ -28,6 +32,8 @@ github.com/galaco/vpk2 v0.0.0-20181012095330-21e4d1f6c888 h1:QCMt6AZ5gwsJ3SNsvTU
 github.com/galaco/vpk2 v0.0.0-20181012095330-21e4d1f6c888/go.mod h1:jL22XAWuUlYUmONuamxDdbDlGJhuOFkqNRPJwuBA3X8=
 github.com/galaco/vtf v1.1.1 h1:EuL4jYmxdrc1dngPBlc0RPZLIOqwjAqnveFqwn9Llnk=
 github.com/galaco/vtf v1.1.1/go.mod h1:/qXLzN9Et3Ed61RUR4rYXO/eMMFgvEyc4opw/Nw6xkM=
+github.com/galaco/vtf v1.2.0 h1:bWa3H2sp25iKyLx2sQQme//hP5dV0H4mYe0V6XmVKp4=
+github.com/galaco/vtf v1.2.0/go.mod h1:VV7M0uI2bOQkTScuYy/pZcH6IqXWZdH2DLx7HAAwAl8=
 github.com/go-gl/gl v0.0.0-20190320180904-bf2b1f2f34d7 h1:SCYMcCJ89LjRGwEa0tRluNRiMjZHalQZrVrvTbPh+qw=
 github.com/go-gl/gl v0.0.0-20190320180904-bf2b1f2f34d7/go.mod h1:482civXOzJJCPzJ4ZOX/pwvXBWSnzD4OKMdH4ClKGbk=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1 h1:QbL/5oDUmRBzO9/Z7Seo6zf912W/a6Sr4Eu0G/3Jho0=
@@ -41,8 +47,12 @@ github.com/golang-source-engine/stringtable v0.1.0 h1:jMGCA6rfByrSH5Q64I+MXg6oF6
 github.com/golang-source-engine/stringtable v0.1.0/go.mod h1:1wsLmMF67JvlpOSe0JVmTy43io7OfvcD3AMEifKIrIA=
 github.com/golang-source-engine/vmt v0.1.1 h1:yBl2XzwBhmwmpEWxEK5t7HpfL63ZTOwGcEMsA/xUrTc=
 github.com/golang-source-engine/vmt v0.1.1/go.mod h1:devs1P7sA/Spthvxw8+wzuEsN3Ibadbia6n3SQQfdW8=
+github.com/golang-source-engine/vmt v0.1.2 h1:T/xZw4tAnqmwQ/Na7iMQkoMYVidA/YnwcChnii1TADo=
+github.com/golang-source-engine/vmt v0.1.2/go.mod h1:devs1P7sA/Spthvxw8+wzuEsN3Ibadbia6n3SQQfdW8=
 github.com/gotk3/gotk3 v0.0.0-20190930052053-f6994e9a1558 h1:2u8Q078ei+2Uy9F8X3QH3BorSm1OhToj17PvggETsV8=
 github.com/gotk3/gotk3 v0.0.0-20190930052053-f6994e9a1558/go.mod h1:Eew3QBwAOBTrfFFDmsDE5wZWbcagBL1NUslj1GhRveo=
+github.com/gotk3/gotk3 v0.0.0-20191010201156-711c17fcaec0 h1:W3j2NfHLKn7Etm9HlqGCMpsIxk9VFpYmrh7TchldFSk=
+github.com/gotk3/gotk3 v0.0.0-20191010201156-711c17fcaec0/go.mod h1:Eew3QBwAOBTrfFFDmsDE5wZWbcagBL1NUslj1GhRveo=
 github.com/inkyblackness/imgui-go v1.10.0 h1:DEgLKIhFQga7ElKmwfHucphTPq8QcOOEeiW4adQCAuE=
 github.com/inkyblackness/imgui-go v1.10.0/go.mod h1:Mki1fp0SBQ0dq2wkAPKjI3Zod0fgpEFsPM9cGUoCNi8=
 github.com/mattn/go-gtk v0.0.0-20180216084204-5a311a1830ab/go.mod h1:PwzwfeB5syFHXORC3MtPylVcjIoTDT/9cvkKpEndGVI=
@@ -59,4 +69,5 @@ golang.org/x/image v0.0.0-20190209060608-ef4a1470e0dc/go.mod h1:ux5Hcp/YLpHSI86h
 golang.org/x/image v0.0.0-20190321063152-3fc05d484e9f/go.mod h1:kZ7UVZpmo3dzQBMxlp+ypCbDeSB+sBbTgSJuh5dn5js=
 golang.org/x/image v0.0.0-20190910094157-69e4b8554b2a h1:gHevYm0pO4QUbwy8Dmdr01R5r1BuKtfYqRqF0h/Cbh0=
 golang.org/x/image v0.0.0-20190910094157-69e4b8554b2a/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
+golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
